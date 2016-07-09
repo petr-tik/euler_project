@@ -1,5 +1,7 @@
+#! /usr/bin/env python
 # -*- coding=utf-8 -*-
 # euler 30
+# Find the sum of all the numbers that can be written as the sum of fifth powers of their digits.
 
 # solved? I do now know how to check if larger numbers satisfy this requirement? 
 
